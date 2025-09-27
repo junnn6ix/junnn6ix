@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/> -->
 
-<p><em>A Informatics Engineer student att <a href="https://sttcipasung.ac.id/">STT Cipasung, interested in many things such a Web Programming, UI/UX etc</a></br>
+<p><em>A Informatics Engineer student att <a href="https://sttcipasung.ac.id/">STT Cipasung</a>, interested in many things such a Web Programming, UI/UX etc</br>
 </em></p>
 
 ```javascript
