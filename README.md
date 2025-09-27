@@ -13,13 +13,13 @@ const aboutJun = {
          css: ["Tailwind"]
       },
    },
-   currentOccupation: ["Work at Unemployed Guy, looking for some job"],
-   challenge: "I'm working towards being able to doing nothing.",
-   social: {
+   socials: {
       ig: "https://www.instagram.com/neckjun__/",
       linkedin: "",
       github: "you're on my github rn"
-   }
+   },
+   currentOccupation: ["Work at Unemployed Guy, looking for some job"],
+   challenge: "I'm working towards being able to doing nothing.",\
 };
 ```
 
