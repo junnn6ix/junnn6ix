@@ -1,12 +1,12 @@
 <!-- <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/> -->
 
-<p><em>A Informatics Engineer student att <a href="https://sttcipasung.ac.id/">STT Cipasung</a></br>
+<p><em>A Informatics Engineer student att <a href="https://sttcipasung.ac.id/">STT Cipasung, interested in many things such a Web Programming, UI/UX etc</a></br>
 </em></p>
 
 ```javascript
 const aboutJun = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
