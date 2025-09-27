@@ -6,8 +6,8 @@
 ```javascript
 const aboutJun = {
    pronouns: "he" | "him",
-   codeMastered: [Javascript, HTML, CSS],
-   codeLearned: [PHP, JAVA, C++],
+   codeLiked: [Javascript, HTML, CSS],
+   codeStudying: [PHP, JAVA, C++],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -20,7 +20,7 @@ const aboutJun = {
    },
    socials: {
       ig: "https://www.instagram.com/neckjun__/",
-      linkedin: "",
+      linkedin: "https://www.linkedin.com/in/neckjss/",
       github: "you're on my github rn"
    },
    currentOccupation: ["Work at Unemployed Guy, open for job opportunities"],
