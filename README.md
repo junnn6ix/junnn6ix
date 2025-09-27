@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/> -->
 
-<p><em>A Informatics Engineer student <a href="https://sttcipasung.ac.id/">STT Cipasung</a></br>
+<p><em>A Informatics Engineer student att <a href="https://sttcipasung.ac.id/">STT Cipasung</a></br>
 </em></p>
 
 ```javascript
@@ -15,6 +15,11 @@ const aboutJun = {
    },
    currentOccupation: ["Work at Unemployed Guy, looking for some job"],
    challenge: "I'm working towards being able to doing nothing.",
+   social: {
+      ig: "https://www.instagram.com/neckjun__/",
+      linkedin: "",
+      github: "you're on my github rn"
+   }
 };
 ```
 
