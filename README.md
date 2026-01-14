@@ -6,8 +6,8 @@
 ```javascript
 const aboutJun = {
    pronouns: "he" | "him",
-   studied: [Javascript, HTML, CSS],
-   onStudying: [PHP, JAVA, C++],
+   studied: ["Javascript", "HTML", "CSS"],
+   onStudying: ["Typescript", "Kotlin", "PHP"],
    technologies: {
       frontEnd: {
          js: ["React"],
